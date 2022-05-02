@@ -8,7 +8,7 @@
 
 - 🌱 Me encuentro en un proceso de aprendizaje constante, en este momento aprendiendo bases de datos no relacionales para agregar a mi Stack. En un futuro me gustaria dedicarme a web3 y solidity, lenguaje que aprendi durante unos meses y del cual estoy creando un repositorio de buenas practicas al momento de desarrollar.
 
-- 💞️ Estoy buscando un empleo que me permita desenvolverme como desarrollador, en cualquiera de los ambitos(back, front o fullstack)a ya que me considero apto para cualquaiera y tengo muchas ganas de ampliar mis conocimientos.
+- 💞️ Estoy buscando un empleo que me permita desenvolverme como desarrollador, en cualquiera de los ambitos(back, front o fullstack) ya que me considero apto para cualquaiera y tengo muchas ganas de ampliar mis conocimientos.
 
 - 📫 Para contactarme pueden usar mi direccion de correo electronico pedroleoni1996@gmail.com o enviarme un mensaje en mi perfil de linkedin https://www.linkedin.com/in/pedro-leoni/
 
