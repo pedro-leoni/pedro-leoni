@@ -13,7 +13,7 @@
 - 📫 Para contactarme pueden usar mi direccion de correo electronico pedroleoni1996@gmail.com o enviarme un mensaje en mi perfil de linkedin https://www.linkedin.com/in/pedro-leoni/
 
 - 🛠 Mis trabajos deployados:
-- 🥐 [Proyecto Individual de Henry](https://pi-food-zeta.vercel.app/)
+- 🥐 [Proyecto Individual de Henry](https://pi-food-zeta.vercel.app/) , [Repositorio del proyecto](https://github.com/pedro-leoni/PI-Food)
 <!---
 pedro-leoni/pedro-leoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
