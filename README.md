@@ -1,7 +1,7 @@
 - 👋 Hola, soy Pedro Leoni, un apasionado por la programacion y el aprendizaje. 
 
 - 👀 Estoy interesado en el desarrollo web, ya sea de front, back o fullstack.
-- 🧮 Mis lenguajes de programacion: Javascript, Bash y Python
+- 🧮 Mis lenguajes de programacion: Javascript, Bash y Python. Me encuentro practicando para pronto agregar Typescript a esta lista
 - 🎨 Mis conocimientos en frontend: React, Redux, Chakra, MaterialUI
 - 💻 Mis conocimientos en backend: Node js, Express, Sequelize
 - 💾 Mis conocimientos en DB: SQL, mySQL, postgreSQL
