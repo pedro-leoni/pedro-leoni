@@ -14,7 +14,7 @@
 
 - 🌱 Me encuentro en un proceso de aprendizaje constante, me caracteriza mi curiosidad y mi necesidad de explorar siempre nuevas tecnologías o librerías que faciliten el trabajo a desarrollar.
 
-- 💞️ Con pensamiento lógico, autodidacta, proactivo y dedicado. Me desenvuelvo muy bien trabajando en equipo ya que me gusta mucho cooperar y trabajar con foco en el cumplimiento de objetivos. Estoy buscando un empleo que me permita desenvolverme como desarrollador web fullstack. 
+- 💞️ Con pensamiento lógico, autodidacta, proactivo y dedicado. Me desenvuelvo muy bien trabajando en equipo ya que me gusta mucho cooperar y trabajar con foco en el cumplimiento de objetivos. 
 
 - 📫 Para contactarme pueden usar mi direccion de correo electronico pedroleoni1996@gmail.com o enviarme un mensaje en mi perfil de [linkedin](https://www.linkedin.com/in/pedro-leoni/)
 
