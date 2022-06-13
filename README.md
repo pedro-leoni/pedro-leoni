@@ -21,6 +21,10 @@
 - 🛠 Mis trabajos:
 - 🥐 [Proyecto Individual de Henry](https://pi-food-zeta.vercel.app/) , [Repositorio del proyecto](https://github.com/pedro-leoni/PI-Food)
 - 💻 [Proyecto Final de Henry: Exmine - Ecommerce](https://final-project-beryl.vercel.app/), [Repositorio del proyecto](https://github.com/pabloktus/Final-Project)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-leoni)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 pedro-leoni/pedro-leoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
