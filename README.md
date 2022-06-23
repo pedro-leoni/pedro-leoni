@@ -4,11 +4,13 @@
 
 - 🧮 Mis lenguajes de programacion: Javascript, Bash y Python.
 
-- 🎨 Mis conocimientos en frontend: React, Redux, Chakra, MaterialUI
+- 🧮 Mis lenguajes de programacion en proceso de aprendizaje: Typescript, Java
 
-- 💻 Mis conocimientos en backend: Node js, Express, Sequelize
+- 🎨 Mis conocimientos en frontend: React, Redux, ChakraUI, MaterialUI
 
-- 💾 Mis conocimientos en DB: SQL, mySQL, postgreSQL
+- 💻 Mis conocimientos en backend: Node js, Express
+
+- 💾 Mis conocimientos en DB y ORM: SQL, mySQL, postgreSQL, Sequelize
 
 - ➕ Mis conocimientos extras: Git, Github, Firebase, Heroku, Vercel, GNU/Linux.
 
