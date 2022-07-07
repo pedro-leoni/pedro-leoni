@@ -21,6 +21,7 @@
 - 📫 Para contactarme pueden usar mi direccion de correo electronico pedroleoni1996@gmail.com o enviarme un mensaje en mi perfil de [linkedin](https://www.linkedin.com/in/pedro-leoni/)
 
 - 🛠 Mis trabajos:
+- 💻 [Portfolio](https://pedro-leoni.vercel.app/), [Repositorio del proyecto](https://github.com/pedro-leoni/portfolio) 
 - 🥐 [Proyecto Individual de Henry](https://pi-food-zeta.vercel.app/) , [Repositorio del proyecto](https://github.com/pedro-leoni/PI-Food)
 - 💻 [Proyecto Final de Henry: Exmine - Ecommerce](https://final-project-beryl.vercel.app/), [Repositorio del proyecto](https://github.com/pabloktus/Final-Project)
 
