@@ -6,7 +6,7 @@
 
 - 🧮 Mis lenguajes de programacion en proceso de aprendizaje: Typescript, Java
 
-- 🎨 Mis conocimientos en frontend: React, Redux, ChakraUI, MaterialUI
+- 🎨 Mis conocimientos en frontend:  NextJs, React, Redux, ChakraUI, MaterialUI
 
 - 💻 Mis conocimientos en backend: Node js, Express
 
