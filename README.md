@@ -4,7 +4,7 @@
 
 - 🧮 Mis lenguajes de programacion: Javascript, Bash y Python.
 
-- 🧮 Mis lenguajes de programacion en proceso de aprendizaje: Typescript, Java
+- 🧮 En proceso de aprendizaje: Typescript, Django
 
 - 🎨 Mis conocimientos en frontend:  NextJs, React, Redux, ChakraUI, MaterialUI
 
