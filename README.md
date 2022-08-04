@@ -8,7 +8,7 @@
 
 - 📫 Para contactarme pueden usar mi direccion de correo electronico pedroleoni1996@gmail.com o enviarme un mensaje en mi perfil de [linkedin](https://www.linkedin.com/in/pedro-leoni/)
 
-- 💻 [Portfolio](https://pedro-leoni.vercel.app/), [Repositorio del proyecto](https://github.com/pedro-leoni/portfolio) 
+- 💻 [Portfolio](https://pedro-leoni.vercel.app/)
 
 
 
