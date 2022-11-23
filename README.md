@@ -1,8 +1,8 @@
-- 👋 Hola, soy Pedro Leoni, desarrollador web full stack. 
+- 👋 Hola, soy Pedro Leoni, desarrollador web y me encuentro en el proceso de convertirme en IA engineer. 
 
 - 🌱 Me caracteriza mi proactividad, la curiosidad y necesidad de explorar, lo que me lleva a estar en un proceso de aprendizaje constante, siempre buscando la innovacion y apoyandome en las buenas practicas.
 
-- 💻 Tecnologias: Javascript, Typescript, React, Next, Node, Express, SQL, PostgreSQL, MongoDb.
+- 💻 Tecnologias: Javascript, Typescript, Python, React, Next, Node, Express, Flask, Django, SQL, PostgreSQL, MongoDb.
 
 - 📫 Para contactarme pueden usar mi direccion de correo electronico pedroleoni1996@gmail.com o enviarme un mensaje en mi perfil de [linkedin](https://www.linkedin.com/in/pedro-leoni/)
 
