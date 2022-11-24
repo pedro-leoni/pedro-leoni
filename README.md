@@ -1,4 +1,4 @@
-- 👋 Hola, soy Pedro Leoni, desarrollador web y me encuentro en el proceso de convertirme en IA engineer. 
+- 👋 Hola, soy Pedro Leoni, desarrollador web y me encuentro en el proceso de convertirme en AI engineer. 
 
 - 🌱 Me caracteriza mi proactividad, la curiosidad y necesidad de explorar, lo que me lleva a estar en un proceso de aprendizaje constante, siempre buscando la innovacion y apoyandome en las buenas practicas.
 
