@@ -9,7 +9,7 @@
 - 💻 [Portfolio](https://pedro-leoni.vercel.app/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/pedro-leoni/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-leoni&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
