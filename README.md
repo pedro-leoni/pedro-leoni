@@ -9,7 +9,8 @@
 - 💻 [Portfolio](https://pedro-leoni.vercel.app/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-leoni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![rfyiamcool's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedro-leoni&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedro-leoni&hide=java&hide_border=true&theme=vue)
 
 
 <!---
