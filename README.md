@@ -2,7 +2,7 @@
 
 - 🌱 Me caracteriza mi proactividad, la curiosidad y necesidad de explorar, lo que me lleva a estar en un proceso de aprendizaje constante, siempre buscando la innovacion y apoyandome en las buenas practicas.
 
-- 💻 Tecnologias: Javascript[React, Next, Node, Express], Python[Flask, Pandas, Numpy, Tensorflow], db[SQL, MySQL, PostgreSQL, MongoDB]
+- 💻 Tecnologias: Javascript[React, Next, Node, Express], Python[Flask, Pandas, Numpy, Tensorflow], db[SQL, MySQL, PostgreSQL, MongoDB], web[HTML, CSS, SCSS]
 
 - 📫 Para contactarme pueden usar mi direccion de correo electronico pedroleoni1996@gmail.com o enviarme un mensaje en mi perfil de [linkedin](https://www.linkedin.com/in/pedro-leoni/)
 
