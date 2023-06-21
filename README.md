@@ -6,7 +6,7 @@
 
 - 📫 Para contactarme pueden usar mi direccion de correo electronico pedroleoni1996@gmail.com o enviarme un mensaje en mi perfil de [linkedin](https://www.linkedin.com/in/pedro-leoni/)
 
-- 💻 [Portfolio](https://pedro-leoni.vercel.app/)
+- 💻 [Portfolio](https://pedro-leoni.vercel.app/), [CV](https://pedro-leoni.vercel.app/PedroLeoniFullStack.pdf)
 
 
 <!-- ![rfyiamcool's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedro-leoni&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue) -->
