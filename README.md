@@ -10,7 +10,7 @@
 
 
 <!-- ![rfyiamcool's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedro-leoni&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue) -->
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedro-leoni&hide=java,css&hide_border=true&theme=vue)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedro-leoni&hide=solidity,css&hide_border=true&theme=vue)
 
 
 <!---
