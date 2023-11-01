@@ -1,4 +1,4 @@
-- 👋 Hola, mi nombre es Pedro, tengo 26 años, soy desarrollador web full-stack, prefiero el backend y me encuentro en el proceso de aprender desarrollo de IA. 
+- 👋 Hola, mi nombre es Pedro, tengo 27 años, soy desarrollador web full-stack, prefiero el backend y me encuentro en el proceso de aprender desarrollo de IA. 
 
 - 🌱 Me caracteriza mi proactividad, la curiosidad y necesidad de explorar, lo que me lleva a estar en un proceso de aprendizaje constante, siempre buscando la innovacion y apoyandome en las buenas practicas.
 
