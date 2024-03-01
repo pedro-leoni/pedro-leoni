@@ -1,8 +1,8 @@
-- 👋 Hola, mi nombre es Pedro, tengo 27 años, soy desarrollador web full-stack, prefiero el backend y me encuentro en el proceso de aprender desarrollo de IA. 
+- 👋 Hola, mi nombre es Pedro, tengo 27 años, soy desarrollador web full-stack, y a lo largo de mi experiencia he trabajado con integraciones de IA, blockchain, scraping y crawling web.
 
 - 🌱 Me caracteriza mi proactividad, la curiosidad y necesidad de explorar, lo que me lleva a estar en un proceso de aprendizaje constante, siempre buscando la innovacion y apoyandome en las buenas practicas.
 
-- 💻 Tecnologias: Javascript & Typescript[React, Next, Node, Express], Python[Flask, Pandas, Selenium], db[SQL, MySQL, PostgreSQL, MongoDB], web[HTML, CSS, SCSS, TailwindCSS]
+- 💻 Tecnologias: Javascript & Typescript[React, Next, Vue, Node, Express], Python[Flask, Pandas, Selenium], db[SQL, MySQL, PostgreSQL, MongoDB], web[HTML, CSS, SCSS, TailwindCSS]
 
 - 📫 Para contactarme pueden usar mi direccion de correo electronico pedroleoni1996@gmail.com o enviarme un mensaje en mi perfil de [linkedin](https://www.linkedin.com/in/pedro-leoni/)
 
