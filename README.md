@@ -1,4 +1,4 @@
-- 👋 Hola, mi nombre es Pedro, tengo 27 años, soy desarrollador web full-stack, y a lo largo de mi experiencia he trabajado con integraciones de IA, blockchain, scraping y crawling web.
+- 👋 Hola, mi nombre es Pedro, tengo 27 años, soy desarrollador web full-stack, y a lo largo de mi experiencia he trabajado con integraciones de IA, blockchain y scraping.
 
 - 🌱 Me caracteriza mi proactividad, la curiosidad y necesidad de explorar, lo que me lleva a estar en un proceso de aprendizaje constante, siempre buscando la innovacion y apoyandome en las buenas practicas.
 
