@@ -1,4 +1,4 @@
-- 👋 Hola, mi nombre es Pedro, tengo 27 años, soy desarrollador web y tambien me dedico al scraping/automatización de tareas. A lo largo de mi experiencia he trabajado con integraciones de IA y blockchain.
+- 👋 Hola, mi nombre es Pedro, tengo 28 años, soy desarrollador web y tambien me dedico al scraping/automatización de tareas. A lo largo de mi experiencia he trabajado con integraciones de IA y blockchain.
 
 - 🌱 Me caracteriza mi proactividad, la curiosidad y necesidad de explorar, lo que me lleva a estar en un proceso de aprendizaje constante, siempre buscando la innovacion y apoyandome en las buenas practicas.
 
