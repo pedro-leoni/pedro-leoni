@@ -1,8 +1,8 @@
-- 👋 Hola, mi nombre es Pedro, tengo 28 años, soy desarrollador web y tambien me dedico al scraping/automatización de tareas. A lo largo de mi experiencia he trabajado con integraciones de IA y blockchain.
+- 👋 Hola, mi nombre es Pedro, tengo 28 años, soy desarrollador de software especializado en el desarrollo de bots y rpas. 
 
 - 🌱 Me caracteriza mi proactividad, la curiosidad y necesidad de explorar, lo que me lleva a estar en un proceso de aprendizaje constante, siempre buscando la innovacion y apoyandome en las buenas practicas.
 
-- 💻 Tecnologias: Javascript & Typescript[React, Next, Vue, Node, Express], Python[Flask, Pandas], Scraping & Automation[Selenium, Playwright], db[SQL, MySQL, PostgreSQL, MongoDB], web[HTML, CSS, SCSS, TailwindCSS]
+- 💻 Tecnologias: Python[Flask, Pytest], Scraping & Automation[Selenium, Playwright], db[SQL, MySQL, PostgreSQL, MongoDB], Javascript & Typescript[React, Vue, Node, Express], AWS[S3, EC2, ECS, LAMBDA].
 
 - 📫 Para contactarme pueden usar mi direccion de correo electronico pedroleoni1996@gmail.com o enviarme un mensaje en mi perfil de [linkedin](https://www.linkedin.com/in/pedro-leoni/)
 
