@@ -6,7 +6,7 @@
 
 - 📫 Para contactarme pueden usar mi direccion de correo electronico pedroleoni1996@gmail.com o enviarme un mensaje en mi perfil de [linkedin](https://www.linkedin.com/in/pedro-leoni/)
 
-- 💻 [Portfolio](https://pleoni.com/), 📄 [CV](https://pedro-leoni.vercel.app/PedroLeoniFullStack.pdf)
+- 💻 [Portfolio](https://pleoni.com/), 📄 [CV](https://www.pleoni.com/CV%20Pedro%20Leoni%20Software%20developer-1.pdf)
 
 
 
